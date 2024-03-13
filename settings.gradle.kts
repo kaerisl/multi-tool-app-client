@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "multi-tool-app-client"
+rootProject.name = "multi_tool_app_client"
 include(":app")
  

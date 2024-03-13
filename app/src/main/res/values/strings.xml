@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">multi-tool-app-client</string>
+    <string name="place_holder_time">00:00:00</string>
+    <string name="reset">Reset</string>
+    <string name="reset2">RESET</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="multi_tool_app_client">multitoolappclient</string>
 </resources>
