@@ -1,7 +1,8 @@
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.multi_tool_app_client.DataHelper
-import com.example.persistenttimertest.databinding.ActivityMainBinding
+import com.example.multi_tool_app_client.R
+import com.example.multi_tool_app_client.databinding.ActivityMainBinding
 
 import java.util.Date
 import java.util.Timer
@@ -108,3 +109,4 @@ class MainActivity : AppCompatActivity()
         return String.format("%02d:%02d:%02d", hours, minutes, seconds)
     }
 }
+
